@@ -1,37 +1,4 @@
-# Welcome to your Lovable project
 
-## Project info
-
-**URL**: https://lovable.dev/projects/a4e1cd9c-af6c-4d1f-8bb8-7103d050b0bd
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
 **Edit a file directly in GitHub**
 
@@ -57,10 +24,8 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+# Quantum Coin
 
-Simply open [Lovable](https://lovable.dev/projects/a4e1cd9c-af6c-4d1f-8bb8-7103d050b0bd) and click on Share -> Publish.
+Quantum Coin is a fully decentralized, peer-to-peer electronic cash system that leverages a proof-of-work consensus mechanism to ensure security, transparency, and resistance to censorship, representing a breakthrough in digital finance. With a fixed maximum supply of 100 million tokens and a predictable issuance schedule, Quantum Coin serves as both a store of value and a medium of exchange, combining the scarcity and durability of hard commodities with the convenience and portability of digital assets. The network operates without any central authority, allowing anyone to participate while maintaining strong network integrity, and its open-source protocol ensures that changes can only be made through majority consensus, making Quantum Coin a robust, global, and neutral digital monetary good.
 
-## I want to use a custom domain - is that possible?
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
